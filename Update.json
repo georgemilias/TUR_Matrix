@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.1",
-  "download_url": "https://github.com/georgemilias/TUR_Matrix/releases/download/v1.0.1/TUR.Matrix.v1.0.1.zip",
+  "latest_version": "1.1.0",
+  "download_url": "https://github.com/georgemilias/TUR_Matrix/releases/download/v1.1.0/TUR.Matrix.v1.1.0.zip",
 
   "latest_beta_version": "1.1.0",
   "download_beta_url": "https://github.com/georgemilias/TUR_Matrix/releases/download/v1.0.1/TUR.Matrix.v1.1.0.BETA.zip",
   
-  "latest_Elt_FW_version": "0.1.1",
-  "download_Elt_FW_url": "https://github.com/georgemilias/TUR_Matrix/releases/download/v1.0.1/ELT_Main_5_20_2025_Ver0_1_1.ino.bin"
+  "latest_Elt_FW_version": "1.1.10",
+  "download_Elt_FW_url": "https://github.com/georgemilias/TUR_Matrix/releases/download/v1.1.0/ELT_Main_16_7_2025_Ver1_1_10.ino.bin"
   }
